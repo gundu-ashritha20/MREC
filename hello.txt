@@ -1,3 +1,4 @@
 Hello world!
-This is my first..!
+This is my first class..!
 today is monday
+welcome to mrec
